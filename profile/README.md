@@ -11,10 +11,15 @@ We build the infrastructure around agents: running their services, connecting th
 
 - [MCP Runtime](https://github.com/tavric-labs/mcp-runtime) — a self-hosted Kubernetes runtime and control plane for MCP servers. Deploy and route services, govern tool access, and audit requests inside your own cluster. [Website](https://mcpruntime.org/) · [Docs](https://docs.mcpruntime.org/) · [Quickstart](https://docs.mcpruntime.org/quickstart/)
 - [Cully](https://github.com/tavric-labs/cully) — a workspace around coding agents, with session guidance, durable project memory, team handoffs, and native Self-mode mobile clients. [Website](https://cully.net/) · [Docs](https://docs.cully.net/)
-- [mcp-mobile](https://github.com/tavric-labs/mcp-mobile) — native Kotlin and Swift MCP client SDKs for mobile apps, wrapping the official MCP SDKs. [Releases](https://github.com/tavric-labs/mcp-mobile/releases)
+- [mcp-mobile](https://github.com/tavric-labs/mcp-mobile) — native Kotlin and Swift MCP client SDKs for mobile apps, wrapping the official MCP SDKs. [Docs](https://mcp-mobile.tavric-labs.net/) · [Releases](https://github.com/tavric-labs/mcp-mobile/releases)
 
 ## Supporting projects
 
-[Python MCP](https://github.com/tavric-labs/py-mcp) · [MCP Auth](https://github.com/tavric-labs/mcp-auth) · [MCP Server Fuzzer](https://github.com/tavric-labs/mcp-server-fuzzer)
+- [PyMCP Kit](https://github.com/tavric-labs/py-mcp) — an opinionated implementation of the MCP spec for FastAPI. [Docs](https://py-mcp.tavric-labs.net/)
+- [MCP Auth](https://github.com/tavric-labs/mcp-auth) — an OAuth authorization broker for MCP with Python, Go, and TypeScript resource-server SDKs. [Docs](https://mcp-auth.tavric-labs.net/docs/)
+- [mcp-smoke](https://github.com/tavric-labs/mcp-smoke) — smoke-test MCP servers with plain-English requests. [Docs](https://mcp-smoke.tavric-labs.net/)
+- [MCP Server Fuzzer](https://github.com/tavric-labs/mcp-server-fuzzer) — black-box security assessment for live MCP servers.
+
+More projects and all documentation: [tavric-labs.net](https://tavric-labs.net/#docs).
 
 MCP Runtime remains the product name. Tavric Labs is the organization bringing these projects together.
