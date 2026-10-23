@@ -23,7 +23,7 @@ We build the infrastructure around agents: running their services, connecting th
 - [1Password MCP Plugin](https://github.com/tavric-labs/onepassword-mcp-plugin) — a credential gateway connecting mcp-auth, 1Password, and upstream tools. Preview.
 
 **Test and inspect**
-- [MCP Server Fuzzer](https://github.com/tavric-labs/mcp-server-fuzzer) — black-box security assessment for live MCP servers.
+- [MCP Server Fuzzer](https://github.com/tavric-labs/mcp-server-fuzzer) — black-box security assessment for live MCP servers. [Docs](https://mcp-server-fuzzer.tavric-labs.net/)
 - [mcp-smoke](https://github.com/tavric-labs/mcp-smoke) — smoke-test MCP servers with plain-English requests. [Docs](https://mcp-smoke.tavric-labs.net/)
 - [mcpsnoop](https://github.com/tavric-labs/mcpsnoop) — a transparent proxy that shows real MCP traffic in your terminal.
 - [mcpfz-probe](https://github.com/tavric-labs/mcpfz-probe) — a runtime observation sidecar for MCP server fuzzing.
