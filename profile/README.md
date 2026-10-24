@@ -32,4 +32,8 @@ We build the infrastructure around agents: running their services, connecting th
 
 Every project documents itself next to its code, and all the docs sites share one design: the [`docs-theme`](https://github.com/tavric-labs/docs-theme) package. Browse them all at [tavric-labs.net](https://tavric-labs.net/#docs).
 
+## Contact
+
+Support, feedback, or questions about any of our products: [admin@tavric-labs.net](mailto:admin@tavric-labs.net). For bugs, please open an issue on the project's repository.
+
 MCP Runtime remains the product name. Tavric Labs is the organization bringing these projects together.
